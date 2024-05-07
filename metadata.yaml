@@ -1,0 +1,28 @@
+_repo: The-model-village-and-its-cottages-Bournville_73532
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harvey, W. Alexander
+    gutenberg_agent_id: '57108'
+    url: http://www.gutenberg.org/2009/agents/57108
+description: ''
+gutenberg_issued: '2024-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73532'
+language: en
+pgterms:marc904: https://archive.org/details/modelvillageitsc00harviala
+pgterms:marc905: 20230730073053harvey
+pgterms:marc906: '1906'
+pgterms:marc907: GB
+production_note: deaurider, A Marshall and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bB. T. Batsford, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The model village and its cottages: Bournville'
+url: http://www.gutenberg.org/ebooks/73532
